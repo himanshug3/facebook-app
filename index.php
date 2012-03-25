@@ -10,6 +10,6 @@ else{
 }
 ?>
 <head>
-<title>Soulmate from IT BHU!!</title>
+<title>Fucking Soulmate from IT BHU!!</title>
 <meta name="description" content="if you have ever thought of having a soulmate on valentine day ,still after fewer attempts yor are unlucky then here is a chnace to play your luck::chooseout your real soulmate from IT BHU">
 </head>
